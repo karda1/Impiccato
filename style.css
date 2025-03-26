@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f8f9fa;
+}
+#game-container {
+    margin: 20px auto;
+    width: 300px;
+}
+#hangman-image {
+    width: 100%;
+}
+#letter-buttons button {
+    margin: 5px;
+    padding: 10px;
+    font-size: 16px;
+}
